@@ -1,6 +1,6 @@
-# teste
-Primeira aula de instruções de GitHub.
-Aula com Caua, Arquimedes, Pedro e Matheus.
+git clone <link>
 
-README, segue como uma apresentação do projeto para as pessoas saberem quem fez ou como utilizar.
-oi, bom dia
+git add. (para adicionar tudo)
+git commit -m "Mensagem do que foi feito"
+git push (para subir para o git)
+
